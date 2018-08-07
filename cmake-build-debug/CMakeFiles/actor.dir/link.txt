@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/actor.dir/main.cpp.o  -o actor 
